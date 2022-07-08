@@ -3,7 +3,7 @@ const blocks = {
     gems: 4,
     iosProducts: ['com.habitrpg.ios.Habitica.4gems'],
     androidProducts: ['com.habitrpg.android.habitica.iap.4gems'],
-    price: 99, // in cents, web only
+    price: 0, // in cents, web only
   },
   '21gems': {
     gems: 21,
