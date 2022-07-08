@@ -15,19 +15,19 @@ const blocks = {
       'com.habitrpg.android.habitica.iap.20.gems',
       'com.habitrpg.android.habitica.iap.21.gems',
     ],
-    price: 499, // in cents, web only
+    price: 0, // in cents, web only
   },
   '42gems': {
     gems: 42,
     iosProducts: ['com.habitrpg.ios.Habitica.42gems'],
     androidProducts: ['com.habitrpg.android.habitica.iap.42gems'],
-    price: 999, // in cents, web only
+    price: 0, // in cents, web only
   },
   '84gems': {
     gems: 84,
     iosProducts: ['com.habitrpg.ios.Habitica.84gems'],
     androidProducts: ['com.habitrpg.android.habitica.iap.84gems'],
-    price: 1999, // in cents, web only
+    price: 0, // in cents, web only
   },
 };
 
